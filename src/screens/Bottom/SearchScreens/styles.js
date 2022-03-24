@@ -7,6 +7,7 @@ export default StyleSheet.create({
     backgroundColor: theme.colors.white,
     padding: 16,
   },
+  
   textTitle: {
     fontSize: 16,
     fontWeight: '500',
